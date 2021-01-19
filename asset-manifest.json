@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/parcel/static/css/main.a963e450.chunk.css",
-    "main.js": "/parcel/static/js/main.bd77cb6e.chunk.js",
-    "main.js.map": "/parcel/static/js/main.bd77cb6e.chunk.js.map",
-    "runtime-main.js": "/parcel/static/js/runtime-main.01b43f19.js",
-    "runtime-main.js.map": "/parcel/static/js/runtime-main.01b43f19.js.map",
-    "static/js/2.70cdab99.chunk.js": "/parcel/static/js/2.70cdab99.chunk.js",
-    "static/js/2.70cdab99.chunk.js.map": "/parcel/static/js/2.70cdab99.chunk.js.map",
-    "index.html": "/parcel/index.html",
-    "static/css/main.a963e450.chunk.css.map": "/parcel/static/css/main.a963e450.chunk.css.map",
-    "static/js/2.70cdab99.chunk.js.LICENSE.txt": "/parcel/static/js/2.70cdab99.chunk.js.LICENSE.txt"
+    "main.css": "/Parcel-search/static/css/main.a963e450.chunk.css",
+    "main.js": "/Parcel-search/static/js/main.6d16f21a.chunk.js",
+    "main.js.map": "/Parcel-search/static/js/main.6d16f21a.chunk.js.map",
+    "runtime-main.js": "/Parcel-search/static/js/runtime-main.fc3a0b5f.js",
+    "runtime-main.js.map": "/Parcel-search/static/js/runtime-main.fc3a0b5f.js.map",
+    "static/js/2.149f6ba6.chunk.js": "/Parcel-search/static/js/2.149f6ba6.chunk.js",
+    "static/js/2.149f6ba6.chunk.js.map": "/Parcel-search/static/js/2.149f6ba6.chunk.js.map",
+    "index.html": "/Parcel-search/index.html",
+    "static/css/main.a963e450.chunk.css.map": "/Parcel-search/static/css/main.a963e450.chunk.css.map",
+    "static/js/2.149f6ba6.chunk.js.LICENSE.txt": "/Parcel-search/static/js/2.149f6ba6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.01b43f19.js",
-    "static/js/2.70cdab99.chunk.js",
+    "static/js/runtime-main.fc3a0b5f.js",
+    "static/js/2.149f6ba6.chunk.js",
     "static/css/main.a963e450.chunk.css",
-    "static/js/main.bd77cb6e.chunk.js"
+    "static/js/main.6d16f21a.chunk.js"
   ]
 }
