@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Parcel-search/static/css/main.a963e450.chunk.css",
-    "main.js": "/Parcel-search/static/js/main.6d16f21a.chunk.js",
-    "main.js.map": "/Parcel-search/static/js/main.6d16f21a.chunk.js.map",
+    "main.js": "/Parcel-search/static/js/main.a42f99d3.chunk.js",
+    "main.js.map": "/Parcel-search/static/js/main.a42f99d3.chunk.js.map",
     "runtime-main.js": "/Parcel-search/static/js/runtime-main.fc3a0b5f.js",
     "runtime-main.js.map": "/Parcel-search/static/js/runtime-main.fc3a0b5f.js.map",
     "static/js/2.149f6ba6.chunk.js": "/Parcel-search/static/js/2.149f6ba6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.fc3a0b5f.js",
     "static/js/2.149f6ba6.chunk.js",
     "static/css/main.a963e450.chunk.css",
-    "static/js/main.6d16f21a.chunk.js"
+    "static/js/main.a42f99d3.chunk.js"
   ]
 }
